@@ -208,7 +208,7 @@
 						</p>
 					</div>
 					<div class="imprimir">
-						<a class="white-text waves-effect waves-light btn" on:click={generarPDF}
+						<a class="white-text waves-effect waves-light btn" onclick= ""
 							>IMPRIMIR DOCUMENTO</a
 						>
 					</div>
